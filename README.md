@@ -37,8 +37,3 @@ Then all patches are spliced to their original size by bac2src_output.py for eva
 ![abl_vis.png](./demo_graph/abl_vis.png)
 <p align="center">Qualitative results of the GF-1 dataset images.</p>
 
-# HeuristicCloudDetectionNetwork
-# HeuristicCloudDetectionNetwork
-# HeuristicCloudDetectionNetwork
-# HeuristicCloudDetectionNetwork
-# HeuristicCloudDetectionNetwork
