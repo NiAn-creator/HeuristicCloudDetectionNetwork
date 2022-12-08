@@ -1,0 +1,3 @@
+from .segmentation_GF1 import wscd_train,wscd_trainval,wscd_test
+from .segmentation_landsat import wscd_train_landsat,wscd_test_landsat
+from .segmentation_wdcd import wscd_train_wdcd,wscd_test_wdcd
